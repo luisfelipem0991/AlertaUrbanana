@@ -17,7 +17,7 @@ export default function Home() {
       {/* Hero */}
       <section className="text-center py-24 px-6 bg-gradient-to-r from-blue-600 to-blue-400 text-white">
         <h2 className="text-4xl md:text-5xl font-bold mb-6">
-          Reporta huecos en las vías y mejora tu ciudad
+          Reporta huecos en las vías y mejora nuestra ciudad
         </h2>
         <p className="max-w-2xl mx-auto text-lg mb-8">
           AlertaUrbana es una plataforma que permite a los ciudadanos reportar
